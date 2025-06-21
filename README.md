@@ -1,5 +1,5 @@
 # Water_Quality_Prediction
-Water quality prediction plays a vital role in ensuring public health and managing water resources efficiently. By leveraging data science and machine learning, we can build predictive models that analyze various water quality parameters and forecast whether water is safe for consumption or usage. Jupyter Notebook provides an ideal interactive environment for this task, combining code, data visualization, and documentation in a single place.
+Water quality prediction plays a vital role in ensuring public health and managing water resources efficiently. By leveraging machine learning, we can build predictive models that analyze various water quality parameters and forecast whether water is safe for consumption or usage. Jupyter Notebook provides an ideal interactive environment for this task, combining code, data visualization, and documentation in a single place.
 
 ## Overview
 
